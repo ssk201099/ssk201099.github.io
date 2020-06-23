@@ -1,0 +1,38 @@
+body
+{
+    background-color:rgb(129, 175, 175);
+}
+h2,h3{
+    color:palegreen;
+}
+p{
+    color: peachpuff;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 35px;
+    color: grey;
+}
+.resize{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+section{
+    padding: 6px;
+    background-color: #ffffff;
+    color: #000000;
+    display: inline-block;
+    border:1px ;
+    border-radius: 4px;
+}
+.profile{
+    text-decoration: none;
+}
+section:hover{
+    background-color: cornflowerblue;
+}
+
